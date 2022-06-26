@@ -1,0 +1,36 @@
+body {
+    background-color: #988DC9;
+    text-align: center
+}
+
+#app {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    align-items: center;
+    width: 400px;
+    height: 500px;
+    background: #EDF2F5
+}
+
+#todo-title {
+    padding: 30px 0px 0px 0px;
+    text: #61FAC8;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px
+}
+
+.greeny {
+    background-color: #61FAC8;
+    padding: 0.1em 0.2em;
+}
+
+.todo-subtitle {
+    font-size: 15px
+}
+
+.list {
+    padding: 5px 70px;
+    text-align: left
+}
